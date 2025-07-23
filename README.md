@@ -11,7 +11,7 @@ Automatically scans your local network (192.168.1.0/24 by default)
 Identifies IP addresses, MAC addresses, and device types
 
 Attempts to resolve hostnames and identify vendors
-# 🛡️ Security Assessment
+#🛡️ Security Assessment
 Calculates security scores based on open ports and vulnerabilities
 Flags devices with common security issues
 Identifies unknown or untrusted devices
